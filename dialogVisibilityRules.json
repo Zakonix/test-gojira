@@ -1,0 +1,57 @@
+{
+    "projectRules": [
+        {
+            "key": "ARTO2ICLOUD",
+            "hideFields": [
+                {
+                    "key": "10500",
+                    "parent": "selIssueTypeCreate"
+                }
+            ]
+        },
+        {
+            "key": "O2IREVA",
+            "hideFields": [
+                {
+                    "key": "11500",
+                    "parent": "selIssueTypeCreate"
+                }
+            ]
+        },
+        {
+            "key": "O2ICLTECH",
+            "hideFields": [
+                {
+                    "key": "11500",
+                    "parent": "selIssueTypeCreate"
+                }
+            ]
+        }
+    ],
+    
+    "issueTypeRules": [
+        {
+            "key": "11500",
+            "hideFields": [
+                {
+                    "field": "selStoryPointsCreate"
+                }
+            ]
+        },
+        {
+            "key": "10500",
+            "hideFields": [
+                {
+                    "field": "TAEnhBenefitCreate",
+                    "initiallyRequired": true
+                },
+                {
+                    "field": "lblEnhBenefitCreate"
+                },
+                {
+                    "field": "btnRegenBenefitCreate"
+                }
+            ]
+        }
+    ]
+}

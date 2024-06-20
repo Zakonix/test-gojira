@@ -1,0 +1,16 @@
+{
+    "issueTypes": [
+        {
+            "key": " ",
+            "text": ""
+        },
+        {
+            "key": "11500",
+            "text": "Feature"
+        },
+        {
+            "key": "10500",
+            "text": "User Story"
+        }
+    ]
+}

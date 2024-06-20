@@ -1,0 +1,24 @@
+{
+    "priorities": [
+        {
+            "key": " ",
+            "text": ""
+        },
+        {
+            "key": 1,
+            "text": "Low"
+        },
+        {
+            "key": 2,
+            "text": "Medium"
+        },
+        {
+            "key": 3,
+            "text": "High"
+        },
+        {
+            "key": 4,
+            "text": "Very High"
+        }
+    ]
+}
